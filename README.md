@@ -1,1 +1,1 @@
-# zerotha-streak
+# zerodha-streak
